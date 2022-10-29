@@ -1,0 +1,29 @@
+var for upper lower special number array
+
+
+First prompt Ask for password length
+    Check length or password if less than 8 or more than 128 characters
+        fire alert that its a wrong length
+            restart function
+
+
+Confirm upper case 
+confirm lower case 
+confirm special characters 
+confirm numbers 
+empty array full of wanted characters 
+
+check booleans of confirms 
+    if true fill empty array with wanted characters 
+
+empty final array for final password
+
+    while i is less than user entered length
+for (car i = 0; ) i < user entered length; i++)
+    fill the array  
+    random whole number; between 0-length of wanted characters
+
+    fill final password with characters(random)
+
+final password join
+return final password to HTML
