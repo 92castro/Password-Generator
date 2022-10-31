@@ -3,7 +3,7 @@ var for upper lower special number array
 
 First prompt Ask for password length
     Check length or password if less than 8 or more than 128 characters
-        fire alert that its a wrong length
+        fire alert if its a wrong length
             restart function
 
 
